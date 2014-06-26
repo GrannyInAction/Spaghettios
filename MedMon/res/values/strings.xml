@@ -9,9 +9,10 @@
     <string name="medicationCounter">00:00:00</string>
     <string name="button1">Medicine Set-Up</string>
     <string name="title_activity_next">NextActivity</string>
-    <string name="medicineSetUp">Large Text</string>
-    <string name="Name of Drug:">drugName</string>
+    <string name="medicineSetUp">Medical Interface</string>
     
-    <string name="prescribedTimeMssg">Prescribed Time</string>
+    <string name="prescribedTimeMssg">Prescribed Time:</string>
+    
+    <string name="button2">Save</string>
 
 </resources>
