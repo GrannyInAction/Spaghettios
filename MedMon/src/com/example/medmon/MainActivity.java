@@ -1,5 +1,8 @@
 package com.example.medmon;
 
+import com.example.patient.MainActivity;
+import com.example.patient.NextActivity;
+
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
